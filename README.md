@@ -6,7 +6,7 @@
 <h3 align="center">I am a Student at Duy Tan University</h3>
 <br/>
 <div align="center">
- 🌍 I'm from in Vietnamese
+ 🌍 I'm based in Vietnamese
 </div>
 
 ### 🛠 My knowledge
