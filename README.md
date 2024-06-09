@@ -1,12 +1,12 @@
 <img alt="banner" style="width:100vw" src="https://github.com/duyvinh09/duyvinh09/assets/85325084/708b729c-8314-4a63-9608-7962bf40757d">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Duy+Vinh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dinh+Duy+Vinh!;" />
 </h1>
-<h3 align="center">I am a Student</h3>
+<h3 align="center">I am a Student at Duy Tan University</h3>
 <br/>
 <div align="center">
- 🌍 I'm based in Vietnamese
+ 🌍 I'm from in Vietnamese
 </div>
 
 ### 🛠 My knowledge
@@ -15,6 +15,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%231572B6.svg?style=flat-square&logo=php&logoColor=white)
 
 ### 📚 Github Status
 
