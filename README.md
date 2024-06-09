@@ -15,7 +15,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23AEB2D5.svg?style=flat-square&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23484C89.svg?style=flat-square&logo=php&logoColor=white)
 
 ### 📚 Github Status
 
