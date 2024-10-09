@@ -8,6 +8,7 @@
 <div align="center">
  🌍 I'm based in Vietnamese
 </div>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
 ### 🛠 My knowledge
 
