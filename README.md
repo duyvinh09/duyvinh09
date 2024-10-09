@@ -5,10 +5,10 @@
 </h1>
 <h3 align="center">I am a Student at Duy Tan University</h3>
 <br/>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <div align="center">
  🌍 I'm based in Vietnamese
 </div>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
 ### 🛠 My knowledge
 
