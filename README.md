@@ -19,6 +19,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23044F88.svg?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23FFDE57.svg?style=flat-square&logo=python&logoColor=%23ffde57,%234584b6,%23646464)
 
 ### 📚 Github Status
