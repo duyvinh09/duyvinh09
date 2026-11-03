@@ -143,7 +143,6 @@ I'm always happy to connect with fellow developers, exchange ideas, and explore 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duyvinh09)
 [![Telegram](https://img.shields.io/badge/Telegram-%23229ED9.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/duyvinh09)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinhduyvinh69@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duyvinh09)
