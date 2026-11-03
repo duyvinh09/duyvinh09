@@ -13,7 +13,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=500&size=27&center=true&vCenter=true&width=600&height=65&duration=3500&pause=1000&color=38BDF8&lines=Hi+There!+%F0%9F%91%8B;I'm+Dinh+Duy+Vinh!;Welcome+to+my+GitHub+Profile!" />
 
-<h3>💻 Software Developer · 🎓 Student · 🚀 Tech Enthusiast</h3>
+<h3>Software Developer | Building Web & Mobile Applications</h3>
 
 <p>
   <img src="https://img.icons8.com/color/48/vietnam-circular.png" width="25" alt="Vietnam Flag"/>
@@ -117,6 +117,9 @@ The tools and technologies I use to learn, experiment, and build projects.
 <!-- ==================== CONTRIBUTIONS ==================== -->
 
 ## 📈 My Contribution Journey
+<p align="center">
+  <i>Every contribution is a step forward.</i>
+</p>
 
 <p align="center">
   <picture>
