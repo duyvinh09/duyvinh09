@@ -35,19 +35,33 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Đinh Duy Vinh**, a student at **Duy Tan University**, Vietnam.
+```javascript
+const duyVinh = {
+  name: "Đinh Duy Vinh",
+  location: "Vietnam 🇻🇳",
 
-I'm passionate about technology and software development. I enjoy exploring new ideas, learning different technologies, and turning what I learn into practical applications.
+  education: {
+    university: "Duy Tan University",
+    status: "Student",
+  },
 
-I believe every project is an opportunity to improve, experiment, and create something meaningful.
+  interests: [
+    "Software Development",
+    "Full-stack Development",
+    "Web & Mobile Applications",
+  ],
 
-- 🎓 Currently studying at Duy Tan University.
-- 💻 Interested in Software Development and Full-stack Development.
-- 📱 Enjoy building web and mobile applications.
-- 🌱 Always exploring new technologies and improving my skills.
-- 🤝 Open to collaboration and exciting projects.
+  mindset: [
+    "Stay curious and keep learning",
+    "Turn ideas into practical applications",
+    "Learn, experiment, and grow with every project",
+  ],
 
-> "Great things are built one line of code at a time."
+  openTo: ["Collaboration", "Exciting projects"],
+
+  motto: "Great things are built one line of code at a time.",
+};
+```
 
 ---
 
@@ -103,13 +117,11 @@ The tools and technologies I use to learn, experiment, and build projects.
 ## 📊 GitHub Status
 
 <div align="center">
+    <img height="180" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=duyvinh09&show_icons=true&rank_icon=github&hide_border=true&bg_color=101828&title_color=38BDF8&text_color=CBD5E1&icon_color=14B8A6" />
+    <img height="180" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=duyvinh09&layout=compact&langs_count=8&hide_border=true&bg_color=101828&title_color=38BDF8&text_color=CBD5E1" />
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=duyvinh09&show_icons=true&rank_icon=github&hide_border=true&bg_color=101828&title_color=38BDF8&text_color=CBD5E1&icon_color=14B8A6)](https://github.com/duyvinh09)
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=duyvinh09&layout=compact&langs_count=8&hide_border=true&bg_color=101828&title_color=38BDF8&text_color=CBD5E1)](https://github.com/duyvinh09)
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=duyvinh09&theme=transparent&hide_border=true&background=101828&ring=38BDF8&fire=14B8A6&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8)
+  <br/><br/>
+    <img height="180" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=duyvinh09&theme=transparent&hide_border=true&background=101828&ring=38BDF8&fire=14B8A6&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" />
 </div>
 
 ---
